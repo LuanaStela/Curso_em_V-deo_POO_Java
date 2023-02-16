@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6c7e3cf5-c30f-4e9a-8451-5d658c0ae06b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Aula 02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 02/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 02/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 02/Aula02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 02/src/Caneta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 02/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 04/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 04/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 04/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 04/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 04/Aula04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 04/src/Caneta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 04/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 05/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 05/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 05/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 05/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 05/Aula05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 05/src/ContaBanco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 05/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 06/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 06/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 06/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 06/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 06/Aula 06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 06/src/Controlador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 06/src/ControleRemoto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 06/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 07/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 07/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 07/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 07/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 07/Aulas 07 e 08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 07/src/Luta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 07/src/Lutador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 07/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 09_ProjetoLivro/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 09_ProjetoLivro/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 09_ProjetoLivro/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 09_ProjetoLivro/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 09_ProjetoLivro/Aula 09_ProjetoLivro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 09_ProjetoLivro/src/Livro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 09_ProjetoLivro/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 09_ProjetoLivro/src/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 09_ProjetoLivro/src/Publicacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 10_ProjetoPessoas/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 10_ProjetoPessoas/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 10_ProjetoPessoas/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 10_ProjetoPessoas/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 10_ProjetoPessoas/Aula 10_ProjetoPessoas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 10_ProjetoPessoas/src/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 10_ProjetoPessoas/src/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 10_ProjetoPessoas/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 10_ProjetoPessoas/src/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 10_ProjetoPessoas/src/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 11/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 11/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 11/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 11/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 11/Aula 11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 11/src/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 11/src/Bolsista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 11/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 11/src/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 11/src/Visitante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 12/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 12/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 12/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 12/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 12/Aula 12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 12/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 12/src/Arara.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 12/src/Ave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 12/src/Cachorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 12/src/Canguru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 12/src/Cobra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 12/src/Goldfish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 12/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 12/src/Mamifero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 12/src/Peixe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 12/src/Reptil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 12/src/Tartaruga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 13/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 13/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 13/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 13/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 13/Aula 13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 13/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 13/src/Cachorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 13/src/Lobo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 13/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 13/src/Mamifero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 14_Projeto Youtube/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 14_Projeto Youtube/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 14_Projeto Youtube/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 14_Projeto Youtube/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 14_Projeto Youtube/Aula 14_ProjetoYoutube.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 14_Projeto Youtube/src/AcoesVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 14_Projeto Youtube/src/Gafanhoto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 14_Projeto Youtube/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 14_Projeto Youtube/src/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 14_Projeto Youtube/src/Video.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 14_Projeto Youtube/src/Visualizacao.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Aula 06" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KvDgOHjsrtohOohHP1BT7and8N" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Curso Em Vídeo",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c7e3cf5-c30f-4e9a-8451-5d658c0ae06b" name="Changes" comment="" />
+      <created>1674846273801</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674846273801</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/Aula 02" />
+      <path value="$PROJECT_DIR$/Aula 04" />
+      <path value="$PROJECT_DIR$/Aula 05" />
+      <path value="$PROJECT_DIR$/Aula 06" />
+      <path value="$PROJECT_DIR$/Aula 07" />
+      <path value="$PROJECT_DIR$/Aula 09_ProjetoLivro" />
+      <path value="$PROJECT_DIR$/Aula 10_ProjetoPessoas" />
+      <path value="$PROJECT_DIR$/Aula 11" />
+      <path value="$PROJECT_DIR$/Aula 12" />
+      <path value="$PROJECT_DIR$/Aula 13" />
+      <path value="$PROJECT_DIR$/Aula 14_Projeto Youtube" />
+      <path value="$PROJECT_DIR$/Aula02" />
+      <path value="$PROJECT_DIR$/Aula04" />
+      <path value="$PROJECT_DIR$/Aula05" />
+    </ignored-roots>
+  </component>
+</project>
